@@ -1,0 +1,15 @@
+# .gitignore for Flask + Python + VS Code
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+instance/
+.env
+.vscode/
+*.sqlite3
+*.db
+*.log
+.DS_Store
+*.swp
+faltuu.txt
